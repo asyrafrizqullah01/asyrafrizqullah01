@@ -20,9 +20,9 @@ I enjoy working with a variety of technologies and tools. Here are a few that I'
 
 Take a look at some of the projects I've been working on:
 
-- [Books Dicoding](https://asyrafrizqullah01.github.io/Books-Dicoding/): Brief description and link
-- [Project 2](https://asyrafrizqullah01.github.io/Restaurant/): Brief description and link
-- [Project 2](https://asyrafrizqullah01.github.io/story-app/): Brief description and link
+- [Books Dicoding](https://asyrafrizqullah01.github.io/Books-Dicoding/)
+- [Retaurant Dicoding](https://asyrafrizqullah01.github.io/Restaurant/)
+- [Story App Dicoding](https://asyrafrizqullah01.github.io/story-app/)
 
 Feel free to explore my repositories for more!
 
