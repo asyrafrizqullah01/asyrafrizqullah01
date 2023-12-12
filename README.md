@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate learner and tech enthusiast. Here
 
 I enjoy working with a variety of technologies and tools. Here are a few that I'm familiar with:
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: C++, JavaScript
 - Web Development: HTML, CSS, React
 - Data Science & AI: TensorFlow, PyTorch
 - Version Control: Git
