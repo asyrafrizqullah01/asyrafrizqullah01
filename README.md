@@ -21,7 +21,7 @@ I enjoy working with a variety of technologies and tools. Here are a few that I'
 Take a look at some of the projects I've been working on:
 
 - [Books Dicoding](https://asyrafrizqullah01.github.io/Books-Dicoding/)
-- [Story App Dicoding](https://asyrafrizqullah01.github.io/story-app/)
+- [Portfolio Personal web](https://asyrafrizqullah01.github.io/Portofolio/)
 
 Feel free to explore my repositories for more!
 
